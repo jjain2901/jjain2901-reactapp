@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "TA WP React App"
+  description: "TA WP React App"
+  annotations:
+    github.com/project-slug: jjain2901/jjain2901/reactapp
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "Jitendra Jain"

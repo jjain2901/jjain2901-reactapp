@@ -1,0 +1,8 @@
+site_name: "TA WP React App"
+site_description: "TA WP React App"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
